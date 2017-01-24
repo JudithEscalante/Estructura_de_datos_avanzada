@@ -1,0 +1,5 @@
+# my_gin extension
+comment = 'my_gin extension'
+default_version = '1.0'
+module_pathname = '$libdir/my_gin'
+relocatable = true
